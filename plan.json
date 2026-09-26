@@ -1,0 +1,4493 @@
+{
+ "generated": "2026-09-27 01:23",
+ "start": "2026-09-27",
+ "end": "2027-05-22",
+ "exam_day": "2027-05-18",
+ "exam_window": [
+  "2027-05-18",
+  "2027-05-22"
+ ],
+ "phases": [
+  {
+   "code": "P0",
+   "name": "P0 Quant",
+   "from": "2026-09-27",
+   "to": "2026-10-11"
+  },
+  {
+   "code": "P1",
+   "name": "P1 學習",
+   "from": "2026-10-12",
+   "to": "2027-03-14"
+  },
+  {
+   "code": "P2",
+   "name": "P2 練習／Mock",
+   "from": "2027-03-15",
+   "to": "2027-05-09"
+  },
+  {
+   "code": "P3",
+   "name": "P3 最後溫習",
+   "from": "2027-05-10",
+   "to": "2027-05-17"
+  },
+  {
+   "code": "EX",
+   "name": "考試",
+   "from": "2027-05-18",
+   "to": "2027-05-22"
+  }
+ ],
+ "days": [
+  {
+   "date": "2026-09-27",
+   "wd": "日",
+   "phase": "P0",
+   "phase_name": "P0 Quant",
+   "plan_day": 1,
+   "book_pages": "p3–24",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "QM",
+   "module": [
+    "LM1"
+   ],
+   "content": "LM1 Multiple regression basics & assumptions",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-09-28",
+   "wd": "一",
+   "phase": "P0",
+   "phase_name": "P0 Quant",
+   "plan_day": 2,
+   "book_pages": "p25–48",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "QM",
+   "module": [
+    "LM2"
+   ],
+   "content": "LM2 Goodness of fit, adj R², AIC/BIC, F-test, forecasting",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-09-29",
+   "wd": "二",
+   "phase": "P0",
+   "phase_name": "P0 Quant",
+   "plan_day": 3,
+   "book_pages": "p49–74",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "QM",
+   "module": [
+    "LM3"
+   ],
+   "content": "LM3 Misspecification, heteroskedasticity, serial correlation, multicollinearity",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-09-30",
+   "wd": "三",
+   "phase": "P0",
+   "phase_name": "P0 Quant",
+   "plan_day": 4,
+   "book_pages": "p75–108",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "QM",
+   "module": [
+    "LM4"
+   ],
+   "content": "LM4 Influence analysis, dummy variables, logistic regression",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-10-01",
+   "wd": "四",
+   "phase": "P0",
+   "phase_name": "P0 Quant",
+   "plan_day": 5,
+   "book_pages": null,
+   "category": "鞏固",
+   "kind": "review",
+   "subject": "QM",
+   "module": [
+    "LM1",
+    "LM2",
+    "LM3",
+    "LM4"
+   ],
+   "content": "Review LM1–4, mixed vignette quiz, formula sheet part 1",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2026-10-02",
+   "wd": "五",
+   "phase": "P0",
+   "phase_name": "P0 Quant",
+   "plan_day": 6,
+   "book_pages": "p109–135",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "QM",
+   "module": [
+    "LM5"
+   ],
+   "content": "LM5a Trend models, AR, covariance stationarity, mean reversion, forecast comparison, coefficient instability",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-10-03",
+   "wd": "六",
+   "phase": "P0",
+   "phase_name": "P0 Quant",
+   "plan_day": 7,
+   "book_pages": "p136–169",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "QM",
+   "module": [
+    "LM5"
+   ],
+   "content": "LM5b Random walk, unit root, MA, seasonality, ARMA/ARCH, multiple time series & cointegration, forecasting steps",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-10-04",
+   "wd": "日",
+   "phase": "P0",
+   "phase_name": "P0 Quant",
+   "plan_day": 8,
+   "book_pages": "p170–196",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "QM",
+   "module": [
+    "LM5"
+   ],
+   "content": "LM5 practice vignettes",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-10-05",
+   "wd": "一",
+   "phase": "P0",
+   "phase_name": "P0 Quant",
+   "plan_day": 9,
+   "book_pages": null,
+   "category": "休息",
+   "kind": "rest",
+   "subject": "QM",
+   "module": [],
+   "content": "Rest day: 20-min spaced-review flashcards only",
+   "activities": [
+    "cards"
+   ],
+   "hours": 0.33,
+   "study": false
+  },
+  {
+   "date": "2026-10-06",
+   "wd": "二",
+   "phase": "P0",
+   "phase_name": "P0 Quant",
+   "plan_day": 10,
+   "book_pages": "p197–231",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "QM",
+   "module": [
+    "LM6"
+   ],
+   "content": "LM6a ML basics, overfitting, penalized regression, SVM, KNN, CART, ensembles, fund case study",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-10-07",
+   "wd": "三",
+   "phase": "P0",
+   "phase_name": "P0 Quant",
+   "plan_day": 11,
+   "book_pages": "p232–274",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "QM",
+   "module": [
+    "LM6"
+   ],
+   "content": "LM6b PCA, clustering, neural nets, deep learning, RL, choosing algorithms",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-10-08",
+   "wd": "四",
+   "phase": "P0",
+   "phase_name": "P0 Quant",
+   "plan_day": 12,
+   "book_pages": "p275–317",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "QM",
+   "module": [
+    "LM7"
+   ],
+   "content": "LM7a Big data project steps, wrangling, text prep, exploration, feature work, training, evaluation, tuning",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-10-09",
+   "wd": "五",
+   "phase": "P0",
+   "phase_name": "P0 Quant",
+   "plan_day": 13,
+   "book_pages": "p318–362",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "QM",
+   "module": [
+    "LM7",
+    "LM6"
+   ],
+   "content": "LM7b Financial forecasting case study + LM6/7 practice",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-10-10",
+   "wd": "六",
+   "phase": "P0",
+   "phase_name": "P0 Quant",
+   "plan_day": 14,
+   "book_pages": null,
+   "category": "Quant mock",
+   "kind": "mock",
+   "subject": "QM",
+   "module": [
+    "LM1",
+    "LM2",
+    "LM3",
+    "LM4",
+    "LM5",
+    "LM6",
+    "LM7"
+   ],
+   "content": "Full mock: mixed vignettes across LM1–7, then error review",
+   "activities": [
+    "mock",
+    "review"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-10-11",
+   "wd": "日",
+   "phase": "P0",
+   "phase_name": "P0 Quant",
+   "plan_day": 15,
+   "book_pages": null,
+   "category": "鞏固",
+   "kind": "review",
+   "subject": "QM",
+   "module": [],
+   "content": "Fix weak spots from mock, final one-page summary",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2026-10-12",
+   "wd": "一",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "ECO",
+   "module": [
+    "FND",
+    "LM1"
+   ],
+   "content": "FND-ECO 補底 + LM1 匯率報價、cross rate、forward points",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-10-13",
+   "wd": "二",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "ECO",
+   "module": [
+    "LM1"
+   ],
+   "content": "LM1 CIP / UIP / forward rate parity / PPP",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-10-14",
+   "wd": "三",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "ECO",
+   "module": [
+    "LM1"
+   ],
+   "content": "LM1 Fisher effect、international Fisher、carry trade、BoP 與資本流動",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-10-15",
+   "wd": "四",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "ECO",
+   "module": [
+    "LM1"
+   ],
+   "content": "LM1 貨幣／財政政策（Mundell-Fleming、portfolio balance）、貨幣危機",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-10-16",
+   "wd": "五",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "ECO",
+   "module": [
+    "LM2"
+   ],
+   "content": "LM2 增長因素、Cobb-Douglas、growth accounting",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-10-17",
+   "wd": "六",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "ECO",
+   "module": [
+    "LM2"
+   ],
+   "content": "LM2 neoclassical vs endogenous growth、convergence、開放經濟",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-10-18",
+   "wd": "日",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "週日溫習 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2026-10-19",
+   "wd": "一",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "ECO",
+   "module": [],
+   "content": "ECO vignette 練習",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-10-20",
+   "wd": "二",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "ECO",
+   "module": [],
+   "content": "ECO 總結小測 + formula sheet",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-10-21",
+   "wd": "三",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FSA",
+   "module": [
+    "FND"
+   ],
+   "content": "FND-FSA 補底（accrual、IFRS vs US GAAP、主要比率）",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-10-22",
+   "wd": "四",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FSA",
+   "module": [
+    "LM1"
+   ],
+   "content": "LM1 Intercorporate Investments (1/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-10-23",
+   "wd": "五",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "休息",
+   "kind": "rest",
+   "subject": "",
+   "module": [],
+   "content": "休息日（只做 SRS）",
+   "activities": [
+    "cards"
+   ],
+   "hours": 0.33,
+   "study": false
+  },
+  {
+   "date": "2026-10-24",
+   "wd": "六",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FSA",
+   "module": [
+    "LM1"
+   ],
+   "content": "LM1 Intercorporate Investments (2/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-10-25",
+   "wd": "日",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "週日溫習 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2026-10-26",
+   "wd": "一",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FSA",
+   "module": [
+    "LM2"
+   ],
+   "content": "LM2 Pensions & Share-Based Compensation (1/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-10-27",
+   "wd": "二",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FSA",
+   "module": [
+    "LM2"
+   ],
+   "content": "LM2 Pensions & Share-Based Compensation (2/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-10-28",
+   "wd": "三",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FSA",
+   "module": [
+    "LM3"
+   ],
+   "content": "LM3 Multinational Operations（translation、temporal vs current rate） (1/3)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-10-29",
+   "wd": "四",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FSA",
+   "module": [
+    "LM3"
+   ],
+   "content": "LM3 Multinational Operations（translation、temporal vs current rate） (2/3)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-10-30",
+   "wd": "五",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FSA",
+   "module": [
+    "LM3"
+   ],
+   "content": "LM3 Multinational Operations（translation、temporal vs current rate） (3/3)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-10-31",
+   "wd": "六",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FSA",
+   "module": [
+    "LM4"
+   ],
+   "content": "LM4 Analysis of Financial Institutions（CAMELS、保險公司） (1/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-11-01",
+   "wd": "日",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "週日溫習 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2026-11-02",
+   "wd": "一",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FSA",
+   "module": [
+    "LM4"
+   ],
+   "content": "LM4 Analysis of Financial Institutions（CAMELS、保險公司） (2/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-11-03",
+   "wd": "二",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FSA",
+   "module": [
+    "LM5"
+   ],
+   "content": "LM5 Quality of Financial Reports (1/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-11-04",
+   "wd": "三",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FSA",
+   "module": [
+    "LM5"
+   ],
+   "content": "LM5 Quality of Financial Reports (2/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-11-05",
+   "wd": "四",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FSA",
+   "module": [
+    "LM6"
+   ],
+   "content": "LM6 Integration of FSA Techniques",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-11-06",
+   "wd": "五",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "休息",
+   "kind": "rest",
+   "subject": "",
+   "module": [],
+   "content": "休息日（只做 SRS）",
+   "activities": [
+    "cards"
+   ],
+   "hours": 0.33,
+   "study": false
+  },
+  {
+   "date": "2026-11-07",
+   "wd": "六",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FSA",
+   "module": [],
+   "content": "FSA vignette 練習 + 總結小測 (1/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-11-08",
+   "wd": "日",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "週日溫習 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2026-11-09",
+   "wd": "一",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FSA",
+   "module": [],
+   "content": "FSA vignette 練習 + 總結小測 (2/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-11-10",
+   "wd": "二",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "ETH",
+   "module": [
+    "FND",
+    "ETH-A"
+   ],
+   "content": "ETH-A：FND-ETH + Code & Standards 總覽",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-11-11",
+   "wd": "三",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "ETH",
+   "module": [
+    "ETH-A"
+   ],
+   "content": "ETH-A：Standard I Professionalism",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-11-12",
+   "wd": "四",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "ETH",
+   "module": [
+    "ETH-A"
+   ],
+   "content": "ETH-A：Standard II Integrity of Capital Markets",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-11-13",
+   "wd": "五",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "CI",
+   "module": [
+    "FND",
+    "LM1"
+   ],
+   "content": "FND-CI 補底 + LM1 Dividends & Share Repurchases (1/3)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-11-14",
+   "wd": "六",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "CI",
+   "module": [
+    "FND",
+    "LM1"
+   ],
+   "content": "FND-CI 補底 + LM1 Dividends & Share Repurchases (2/3)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-11-15",
+   "wd": "日",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "週日溫習 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2026-11-16",
+   "wd": "一",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "CI",
+   "module": [
+    "FND",
+    "LM1"
+   ],
+   "content": "FND-CI 補底 + LM1 Dividends & Share Repurchases (3/3)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-11-17",
+   "wd": "二",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "CI",
+   "module": [
+    "LM2"
+   ],
+   "content": "LM2 ESG Considerations",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-11-18",
+   "wd": "三",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "CI",
+   "module": [
+    "LM3"
+   ],
+   "content": "LM3 Cost of Capital: Advanced Topics (1/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-11-19",
+   "wd": "四",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "CI",
+   "module": [
+    "LM3"
+   ],
+   "content": "LM3 Cost of Capital: Advanced Topics (2/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-11-20",
+   "wd": "五",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "休息",
+   "kind": "rest",
+   "subject": "",
+   "module": [],
+   "content": "休息日（只做 SRS）",
+   "activities": [
+    "cards"
+   ],
+   "hours": 0.33,
+   "study": false
+  },
+  {
+   "date": "2026-11-21",
+   "wd": "六",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "CI",
+   "module": [
+    "LM4"
+   ],
+   "content": "LM4 Corporate Restructuring (1/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-11-22",
+   "wd": "日",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "週日溫習 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2026-11-23",
+   "wd": "一",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "CI",
+   "module": [
+    "LM4"
+   ],
+   "content": "LM4 Corporate Restructuring (2/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-11-24",
+   "wd": "二",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "CI",
+   "module": [],
+   "content": "CI 總結小測 + vignette",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-11-25",
+   "wd": "三",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "EQ",
+   "module": [
+    "FND",
+    "LM1"
+   ],
+   "content": "FND-EQ 補底 + LM1 Valuation: Applications & Processes (1/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-11-26",
+   "wd": "四",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "EQ",
+   "module": [
+    "FND",
+    "LM1"
+   ],
+   "content": "FND-EQ 補底 + LM1 Valuation: Applications & Processes (2/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-11-27",
+   "wd": "五",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "EQ",
+   "module": [
+    "LM2"
+   ],
+   "content": "LM2 Discounted Dividend Valuation（Gordon、H-model、multi-stage、PVGO） (1/4)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-11-28",
+   "wd": "六",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "EQ",
+   "module": [
+    "LM2"
+   ],
+   "content": "LM2 Discounted Dividend Valuation（Gordon、H-model、multi-stage、PVGO） (2/4)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-11-29",
+   "wd": "日",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "週日溫習 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2026-11-30",
+   "wd": "一",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "EQ",
+   "module": [
+    "LM2"
+   ],
+   "content": "LM2 Discounted Dividend Valuation（Gordon、H-model、multi-stage、PVGO） (3/4)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-12-01",
+   "wd": "二",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "EQ",
+   "module": [
+    "LM2"
+   ],
+   "content": "LM2 Discounted Dividend Valuation（Gordon、H-model、multi-stage、PVGO） (4/4)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-12-02",
+   "wd": "三",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "EQ",
+   "module": [
+    "LM3"
+   ],
+   "content": "LM3 Free Cash Flow Valuation（FCFF / FCFE） (1/4)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-12-03",
+   "wd": "四",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "EQ",
+   "module": [
+    "LM3"
+   ],
+   "content": "LM3 Free Cash Flow Valuation（FCFF / FCFE） (2/4)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-12-04",
+   "wd": "五",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "休息",
+   "kind": "rest",
+   "subject": "",
+   "module": [],
+   "content": "休息日（只做 SRS）",
+   "activities": [
+    "cards"
+   ],
+   "hours": 0.33,
+   "study": false
+  },
+  {
+   "date": "2026-12-05",
+   "wd": "六",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "EQ",
+   "module": [
+    "LM3"
+   ],
+   "content": "LM3 Free Cash Flow Valuation（FCFF / FCFE） (3/4)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-12-06",
+   "wd": "日",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "週日溫習 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2026-12-07",
+   "wd": "一",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "EQ",
+   "module": [
+    "LM3"
+   ],
+   "content": "LM3 Free Cash Flow Valuation（FCFF / FCFE） (4/4)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-12-08",
+   "wd": "二",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "EQ",
+   "module": [
+    "LM4"
+   ],
+   "content": "LM4 Market-Based Valuation（P/E、P/B、EV/EBITDA 等） (1/4)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-12-09",
+   "wd": "三",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "EQ",
+   "module": [
+    "LM4"
+   ],
+   "content": "LM4 Market-Based Valuation（P/E、P/B、EV/EBITDA 等） (2/4)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-12-10",
+   "wd": "四",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "EQ",
+   "module": [
+    "LM4"
+   ],
+   "content": "LM4 Market-Based Valuation（P/E、P/B、EV/EBITDA 等） (3/4)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-12-11",
+   "wd": "五",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "EQ",
+   "module": [
+    "LM4"
+   ],
+   "content": "LM4 Market-Based Valuation（P/E、P/B、EV/EBITDA 等） (4/4)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-12-12",
+   "wd": "六",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "EQ",
+   "module": [
+    "LM5"
+   ],
+   "content": "LM5 Residual Income Valuation (1/3)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-12-13",
+   "wd": "日",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "週日溫習 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2026-12-14",
+   "wd": "一",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "EQ",
+   "module": [
+    "LM5"
+   ],
+   "content": "LM5 Residual Income Valuation (2/3)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-12-15",
+   "wd": "二",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "EQ",
+   "module": [
+    "LM5"
+   ],
+   "content": "LM5 Residual Income Valuation (3/3)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-12-16",
+   "wd": "三",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "EQ",
+   "module": [
+    "LM6"
+   ],
+   "content": "LM6 Private Company Valuation (1/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-12-17",
+   "wd": "四",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "EQ",
+   "module": [
+    "LM6"
+   ],
+   "content": "LM6 Private Company Valuation (2/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-12-18",
+   "wd": "五",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "休息",
+   "kind": "rest",
+   "subject": "",
+   "module": [],
+   "content": "休息日（只做 SRS）",
+   "activities": [
+    "cards"
+   ],
+   "hours": 0.33,
+   "study": false
+  },
+  {
+   "date": "2026-12-19",
+   "wd": "六",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "EQ",
+   "module": [],
+   "content": "EQ 總結小測 + vignette",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-12-20",
+   "wd": "日",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "週日溫習 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2026-12-21",
+   "wd": "一",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "ETH",
+   "module": [
+    "ETH-B"
+   ],
+   "content": "ETH-B：Standard III Duties to Clients (1/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-12-22",
+   "wd": "二",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "ETH",
+   "module": [
+    "ETH-B"
+   ],
+   "content": "ETH-B：Standard III Duties to Clients (2/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-12-23",
+   "wd": "三",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "ETH",
+   "module": [
+    "ETH-B"
+   ],
+   "content": "ETH-B：Standard IV Duties to Employers",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2026-12-24",
+   "wd": "四",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "Buffer",
+   "kind": "buffer",
+   "subject": "",
+   "module": [],
+   "content": "Buffer 1 聖誕／新年",
+   "activities": [
+    "cards",
+    "review"
+   ],
+   "hours": 0.5,
+   "study": false
+  },
+  {
+   "date": "2026-12-25",
+   "wd": "五",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "Buffer",
+   "kind": "buffer",
+   "subject": "",
+   "module": [],
+   "content": "Buffer 1 聖誕／新年",
+   "activities": [
+    "cards",
+    "review"
+   ],
+   "hours": 0.5,
+   "study": false
+  },
+  {
+   "date": "2026-12-26",
+   "wd": "六",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "Buffer",
+   "kind": "buffer",
+   "subject": "",
+   "module": [],
+   "content": "Buffer 1 聖誕／新年",
+   "activities": [
+    "cards",
+    "review"
+   ],
+   "hours": 0.5,
+   "study": false
+  },
+  {
+   "date": "2026-12-27",
+   "wd": "日",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "週日溫習 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2026-12-28",
+   "wd": "一",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "Buffer",
+   "kind": "buffer",
+   "subject": "",
+   "module": [],
+   "content": "Buffer 1 聖誕／新年",
+   "activities": [
+    "cards",
+    "review"
+   ],
+   "hours": 0.5,
+   "study": false
+  },
+  {
+   "date": "2026-12-29",
+   "wd": "二",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "Buffer",
+   "kind": "buffer",
+   "subject": "",
+   "module": [],
+   "content": "Buffer 1 聖誕／新年",
+   "activities": [
+    "cards",
+    "review"
+   ],
+   "hours": 0.5,
+   "study": false
+  },
+  {
+   "date": "2026-12-30",
+   "wd": "三",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "Buffer",
+   "kind": "buffer",
+   "subject": "",
+   "module": [],
+   "content": "Buffer 1 聖誕／新年",
+   "activities": [
+    "cards",
+    "review"
+   ],
+   "hours": 0.5,
+   "study": false
+  },
+  {
+   "date": "2026-12-31",
+   "wd": "四",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "Buffer",
+   "kind": "buffer",
+   "subject": "",
+   "module": [],
+   "content": "Buffer 1 聖誕／新年",
+   "activities": [
+    "cards",
+    "review"
+   ],
+   "hours": 0.5,
+   "study": false
+  },
+  {
+   "date": "2027-01-01",
+   "wd": "五",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "Buffer",
+   "kind": "buffer",
+   "subject": "",
+   "module": [],
+   "content": "Buffer 1 聖誕／新年",
+   "activities": [
+    "cards",
+    "review"
+   ],
+   "hours": 0.5,
+   "study": false
+  },
+  {
+   "date": "2027-01-02",
+   "wd": "六",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FI",
+   "module": [
+    "FND"
+   ],
+   "content": "FND-FI 補底（YTM、spot/forward、duration）",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-01-03",
+   "wd": "日",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "週日溫習 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2027-01-04",
+   "wd": "一",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FI",
+   "module": [
+    "LM1"
+   ],
+   "content": "LM1 Term Structure & Interest Rate Dynamics (1/3)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-01-05",
+   "wd": "二",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FI",
+   "module": [
+    "LM1"
+   ],
+   "content": "LM1 Term Structure & Interest Rate Dynamics (2/3)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-01-06",
+   "wd": "三",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FI",
+   "module": [
+    "LM1"
+   ],
+   "content": "LM1 Term Structure & Interest Rate Dynamics (3/3)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-01-07",
+   "wd": "四",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FI",
+   "module": [
+    "LM2"
+   ],
+   "content": "LM2 Arbitrage-Free Valuation（binomial tree） (1/3)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-01-08",
+   "wd": "五",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FI",
+   "module": [
+    "LM2"
+   ],
+   "content": "LM2 Arbitrage-Free Valuation（binomial tree） (2/3)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-01-09",
+   "wd": "六",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FI",
+   "module": [
+    "LM2"
+   ],
+   "content": "LM2 Arbitrage-Free Valuation（binomial tree） (3/3)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-01-10",
+   "wd": "日",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "週日溫習 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2027-01-11",
+   "wd": "一",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FI",
+   "module": [
+    "LM3"
+   ],
+   "content": "LM3 Bonds with Embedded Options（OAS、effective duration、convertibles） (1/4)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-01-12",
+   "wd": "二",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FI",
+   "module": [
+    "LM3"
+   ],
+   "content": "LM3 Bonds with Embedded Options（OAS、effective duration、convertibles） (2/4)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-01-13",
+   "wd": "三",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FI",
+   "module": [
+    "LM3"
+   ],
+   "content": "LM3 Bonds with Embedded Options（OAS、effective duration、convertibles） (3/4)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-01-14",
+   "wd": "四",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FI",
+   "module": [
+    "LM3"
+   ],
+   "content": "LM3 Bonds with Embedded Options（OAS、effective duration、convertibles） (4/4)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-01-15",
+   "wd": "五",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "休息",
+   "kind": "rest",
+   "subject": "",
+   "module": [],
+   "content": "休息日（只做 SRS）",
+   "activities": [
+    "cards"
+   ],
+   "hours": 0.33,
+   "study": false
+  },
+  {
+   "date": "2027-01-16",
+   "wd": "六",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FI",
+   "module": [
+    "LM4"
+   ],
+   "content": "LM4 Credit Analysis Models (1/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-01-17",
+   "wd": "日",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "週日溫習 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2027-01-18",
+   "wd": "一",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FI",
+   "module": [
+    "LM4"
+   ],
+   "content": "LM4 Credit Analysis Models (2/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-01-19",
+   "wd": "二",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FI",
+   "module": [
+    "LM5"
+   ],
+   "content": "LM5 Credit Default Swaps",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-01-20",
+   "wd": "三",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FI",
+   "module": [],
+   "content": "FI vignette 練習 + 總結小測 (1/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-01-21",
+   "wd": "四",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "FI",
+   "module": [],
+   "content": "FI vignette 練習 + 總結小測 (2/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-01-22",
+   "wd": "五",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "DER",
+   "module": [
+    "FND"
+   ],
+   "content": "FND-DER 補底（forward/option payoff、no-arbitrage）",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-01-23",
+   "wd": "六",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "DER",
+   "module": [
+    "LM1"
+   ],
+   "content": "LM1 Forward Commitments（forwards、futures、swaps 定價與估值） (1/3)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-01-24",
+   "wd": "日",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "週日溫習 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2027-01-25",
+   "wd": "一",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "DER",
+   "module": [
+    "LM1"
+   ],
+   "content": "LM1 Forward Commitments（forwards、futures、swaps 定價與估值） (2/3)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-01-26",
+   "wd": "二",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "DER",
+   "module": [
+    "LM1"
+   ],
+   "content": "LM1 Forward Commitments（forwards、futures、swaps 定價與估值） (3/3)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-01-27",
+   "wd": "三",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "DER",
+   "module": [
+    "LM2"
+   ],
+   "content": "LM2 Contingent Claims（binomial、BSM、Greeks、delta hedging） (1/4)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-01-28",
+   "wd": "四",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "DER",
+   "module": [
+    "LM2"
+   ],
+   "content": "LM2 Contingent Claims（binomial、BSM、Greeks、delta hedging） (2/4)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-01-29",
+   "wd": "五",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "休息",
+   "kind": "rest",
+   "subject": "",
+   "module": [],
+   "content": "休息日（只做 SRS）",
+   "activities": [
+    "cards"
+   ],
+   "hours": 0.33,
+   "study": false
+  },
+  {
+   "date": "2027-01-30",
+   "wd": "六",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "DER",
+   "module": [
+    "LM2"
+   ],
+   "content": "LM2 Contingent Claims（binomial、BSM、Greeks、delta hedging） (3/4)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-01-31",
+   "wd": "日",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "週日溫習 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2027-02-01",
+   "wd": "一",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "DER",
+   "module": [
+    "LM2"
+   ],
+   "content": "LM2 Contingent Claims（binomial、BSM、Greeks、delta hedging） (4/4)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-02-02",
+   "wd": "二",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "DER",
+   "module": [],
+   "content": "DER 總結小測 + vignette",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-02-03",
+   "wd": "三",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "ETH",
+   "module": [
+    "ETH-C"
+   ],
+   "content": "ETH-C：Standard V Investment Analysis",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-02-04",
+   "wd": "四",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "ETH",
+   "module": [
+    "ETH-C"
+   ],
+   "content": "ETH-C：Standard VI Conflicts of Interest",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-02-05",
+   "wd": "五",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "Buffer",
+   "kind": "buffer",
+   "subject": "",
+   "module": [],
+   "content": "Buffer 2 農曆新年",
+   "activities": [
+    "cards",
+    "review"
+   ],
+   "hours": 0.5,
+   "study": false
+  },
+  {
+   "date": "2027-02-06",
+   "wd": "六",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "Buffer",
+   "kind": "buffer",
+   "subject": "",
+   "module": [],
+   "content": "Buffer 2 農曆新年",
+   "activities": [
+    "cards",
+    "review"
+   ],
+   "hours": 0.5,
+   "study": false
+  },
+  {
+   "date": "2027-02-07",
+   "wd": "日",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "週日溫習 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2027-02-08",
+   "wd": "一",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "Buffer",
+   "kind": "buffer",
+   "subject": "",
+   "module": [],
+   "content": "Buffer 2 農曆新年",
+   "activities": [
+    "cards",
+    "review"
+   ],
+   "hours": 0.5,
+   "study": false
+  },
+  {
+   "date": "2027-02-09",
+   "wd": "二",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "Buffer",
+   "kind": "buffer",
+   "subject": "",
+   "module": [],
+   "content": "Buffer 2 農曆新年",
+   "activities": [
+    "cards",
+    "review"
+   ],
+   "hours": 0.5,
+   "study": false
+  },
+  {
+   "date": "2027-02-10",
+   "wd": "三",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "Buffer",
+   "kind": "buffer",
+   "subject": "",
+   "module": [],
+   "content": "Buffer 2 農曆新年",
+   "activities": [
+    "cards",
+    "review"
+   ],
+   "hours": 0.5,
+   "study": false
+  },
+  {
+   "date": "2027-02-11",
+   "wd": "四",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "ETH",
+   "module": [
+    "ETH-C"
+   ],
+   "content": "ETH-C：Standard VII Responsibilities as a CFA Member / Candidate",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-02-12",
+   "wd": "五",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "休息",
+   "kind": "rest",
+   "subject": "",
+   "module": [],
+   "content": "休息日（只做 SRS）",
+   "activities": [
+    "cards"
+   ],
+   "hours": 0.33,
+   "study": false
+  },
+  {
+   "date": "2027-02-13",
+   "wd": "六",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "AI",
+   "module": [
+    "FND",
+    "LM1"
+   ],
+   "content": "FND-AI 補底 + LM1 Commodities & Commodity Derivatives (1/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-02-14",
+   "wd": "日",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "週日溫習 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2027-02-15",
+   "wd": "一",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "AI",
+   "module": [
+    "FND",
+    "LM1"
+   ],
+   "content": "FND-AI 補底 + LM1 Commodities & Commodity Derivatives (2/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-02-16",
+   "wd": "二",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "AI",
+   "module": [
+    "LM2"
+   ],
+   "content": "LM2 Types of Real Estate Investment",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-02-17",
+   "wd": "三",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "AI",
+   "module": [
+    "LM3"
+   ],
+   "content": "LM3 Publicly Traded Real Estate Securities（REIT、NAV、FFO/AFFO） (1/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-02-18",
+   "wd": "四",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "AI",
+   "module": [
+    "LM3"
+   ],
+   "content": "LM3 Publicly Traded Real Estate Securities（REIT、NAV、FFO/AFFO） (2/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-02-19",
+   "wd": "五",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "AI",
+   "module": [
+    "LM4"
+   ],
+   "content": "LM4 Hedge Fund Strategies (1/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-02-20",
+   "wd": "六",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "AI",
+   "module": [
+    "LM4"
+   ],
+   "content": "LM4 Hedge Fund Strategies (2/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-02-21",
+   "wd": "日",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "週日溫習 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2027-02-22",
+   "wd": "一",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "AI",
+   "module": [],
+   "content": "AI 總結小測 + vignette",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-02-23",
+   "wd": "二",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "PM",
+   "module": [
+    "FND"
+   ],
+   "content": "FND-PM 補底（CAPM、portfolio return/risk）",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-02-24",
+   "wd": "三",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "PM",
+   "module": [
+    "LM1"
+   ],
+   "content": "LM1 Economics & Investment Markets (1/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-02-25",
+   "wd": "四",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "PM",
+   "module": [
+    "LM1"
+   ],
+   "content": "LM1 Economics & Investment Markets (2/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-02-26",
+   "wd": "五",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "休息",
+   "kind": "rest",
+   "subject": "",
+   "module": [],
+   "content": "休息日（只做 SRS）",
+   "activities": [
+    "cards"
+   ],
+   "hours": 0.33,
+   "study": false
+  },
+  {
+   "date": "2027-02-27",
+   "wd": "六",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "PM",
+   "module": [
+    "LM2"
+   ],
+   "content": "LM2 Analysis of Active Portfolio Management (1/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-02-28",
+   "wd": "日",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "週日溫習 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2027-03-01",
+   "wd": "一",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "PM",
+   "module": [
+    "LM2"
+   ],
+   "content": "LM2 Analysis of Active Portfolio Management (2/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-03-02",
+   "wd": "二",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "PM",
+   "module": [
+    "LM3"
+   ],
+   "content": "LM3 ETFs: Mechanics & Applications (1/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-03-03",
+   "wd": "三",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "PM",
+   "module": [
+    "LM3"
+   ],
+   "content": "LM3 ETFs: Mechanics & Applications (2/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-03-04",
+   "wd": "四",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "PM",
+   "module": [
+    "LM4"
+   ],
+   "content": "LM4 Using Multifactor Models (1/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-03-05",
+   "wd": "五",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "PM",
+   "module": [
+    "LM4"
+   ],
+   "content": "LM4 Using Multifactor Models (2/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-03-06",
+   "wd": "六",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "PM",
+   "module": [
+    "LM5"
+   ],
+   "content": "LM5 Measuring & Managing Market Risk（VaR、stress test） (1/3)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-03-07",
+   "wd": "日",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "週日溫習 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2027-03-08",
+   "wd": "一",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "PM",
+   "module": [
+    "LM5"
+   ],
+   "content": "LM5 Measuring & Managing Market Risk（VaR、stress test） (2/3)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-03-09",
+   "wd": "二",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "PM",
+   "module": [
+    "LM5"
+   ],
+   "content": "LM5 Measuring & Managing Market Risk（VaR、stress test） (3/3)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-03-10",
+   "wd": "三",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "PM",
+   "module": [
+    "LM6"
+   ],
+   "content": "LM6 Backtesting & Simulation (1/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-03-11",
+   "wd": "四",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "PM",
+   "module": [
+    "LM6"
+   ],
+   "content": "LM6 Backtesting & Simulation (2/2)",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-03-12",
+   "wd": "五",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "休息",
+   "kind": "rest",
+   "subject": "",
+   "module": [],
+   "content": "休息日（只做 SRS）",
+   "activities": [
+    "cards"
+   ],
+   "hours": 0.33,
+   "study": false
+  },
+  {
+   "date": "2027-03-13",
+   "wd": "六",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "PM",
+   "module": [],
+   "content": "PM 總結小測 + vignette",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-03-14",
+   "wd": "日",
+   "phase": "P1",
+   "phase_name": "P1 學習",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "週日溫習 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2027-03-15",
+   "wd": "一",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "ETH",
+   "module": [],
+   "content": "ETH Application of the Code & Standards（2027 新 module）+ Buffer 3 補課",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-03-16",
+   "wd": "二",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "新課",
+   "kind": "lesson",
+   "subject": "ETH",
+   "module": [],
+   "content": "ETH Application（續）/ Buffer 3 補課",
+   "activities": [
+    "lesson",
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-03-17",
+   "wd": "三",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "MIX",
+   "module": [],
+   "content": "累積溫習 QM + ECO（item sets）",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-03-18",
+   "wd": "四",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "MIX",
+   "module": [],
+   "content": "累積溫習 CI + AI（item sets）",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-03-19",
+   "wd": "五",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "休息",
+   "kind": "rest",
+   "subject": "",
+   "module": [],
+   "content": "休息日（只做 SRS）",
+   "activities": [
+    "cards"
+   ],
+   "hours": 0.33,
+   "study": false
+  },
+  {
+   "date": "2027-03-20",
+   "wd": "六",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "MIX",
+   "module": [],
+   "content": "formula sheet 總表（全十科）+ error log 建立",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-03-21",
+   "wd": "日",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "週日溫習 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2027-03-22",
+   "wd": "一",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "FSA",
+   "module": [],
+   "content": "FSA item sets（第一輪）",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-03-23",
+   "wd": "二",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "FSA",
+   "module": [],
+   "content": "FSA item sets + 錯題",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-03-24",
+   "wd": "三",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "EQ",
+   "module": [],
+   "content": "EQ item sets（第一輪）",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-03-25",
+   "wd": "四",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "EQ",
+   "module": [],
+   "content": "EQ item sets + 錯題",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-03-26",
+   "wd": "五",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "Mock",
+   "kind": "mock",
+   "subject": "MIX",
+   "module": [],
+   "content": "半套診斷 Mock 0（Session 1：11 item sets／132 分鐘）— Good Friday",
+   "activities": [
+    "mock",
+    "review"
+   ],
+   "hours": 2.5,
+   "study": true
+  },
+  {
+   "date": "2027-03-27",
+   "wd": "六",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "MIX",
+   "module": [],
+   "content": "Mock 0 檢討 + ETH item sets",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-03-28",
+   "wd": "日",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "週日溫習 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2027-03-29",
+   "wd": "一",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "FI",
+   "module": [],
+   "content": "FI item sets（第一輪）— Easter Monday",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-03-30",
+   "wd": "二",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "FI",
+   "module": [],
+   "content": "FI item sets + 錯題",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-03-31",
+   "wd": "三",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "DER",
+   "module": [],
+   "content": "DER item sets（第一輪）",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-04-01",
+   "wd": "四",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "PM",
+   "module": [],
+   "content": "PM item sets（第一輪）",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-04-02",
+   "wd": "五",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "休息",
+   "kind": "rest",
+   "subject": "",
+   "module": [],
+   "content": "休息日（Mock 前一天，只做 SRS）",
+   "activities": [
+    "cards"
+   ],
+   "hours": 0.33,
+   "study": false
+  },
+  {
+   "date": "2027-04-03",
+   "wd": "六",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "Mock",
+   "kind": "mock",
+   "subject": "MIX",
+   "module": [],
+   "content": "Mock 1（全套：2 × 132 分鐘）",
+   "activities": [
+    "mock",
+    "review"
+   ],
+   "hours": 4.5,
+   "study": true
+  },
+  {
+   "date": "2027-04-04",
+   "wd": "日",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "Mock 1 檢討（上半）+ check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2027-04-05",
+   "wd": "一",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "MIX",
+   "module": [],
+   "content": "Mock 1 檢討（下半）— 清明節",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-04-06",
+   "wd": "二",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "MIX",
+   "module": [],
+   "content": "Mock 1 最弱科目 #1 重溫",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-04-07",
+   "wd": "三",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "MIX",
+   "module": [],
+   "content": "Mock 1 最弱科目 #2 重溫",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-04-08",
+   "wd": "四",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "ETH",
+   "module": [],
+   "content": "ETH item sets + Standards 總表",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-04-09",
+   "wd": "五",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "QM",
+   "module": [],
+   "content": "QM + ECO item sets（第一輪）",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-04-10",
+   "wd": "六",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "CI",
+   "module": [],
+   "content": "CI + AI item sets（第一輪）",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-04-11",
+   "wd": "日",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "週日溫習 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2027-04-12",
+   "wd": "一",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "FSA",
+   "module": [],
+   "content": "FSA 第二輪（弱項 LOS）",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-04-13",
+   "wd": "二",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "EQ",
+   "module": [],
+   "content": "EQ 第二輪（弱項 LOS）",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-04-14",
+   "wd": "三",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "FI",
+   "module": [],
+   "content": "FI 第二輪（弱項 LOS）",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-04-15",
+   "wd": "四",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "PM",
+   "module": [],
+   "content": "PM 第二輪 + ETH item sets",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-04-16",
+   "wd": "五",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "休息",
+   "kind": "rest",
+   "subject": "",
+   "module": [],
+   "content": "休息日（Mock 前一天，只做 SRS）",
+   "activities": [
+    "cards"
+   ],
+   "hours": 0.33,
+   "study": false
+  },
+  {
+   "date": "2027-04-17",
+   "wd": "六",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "Mock",
+   "kind": "mock",
+   "subject": "MIX",
+   "module": [],
+   "content": "Mock 2（全套）",
+   "activities": [
+    "mock",
+    "review"
+   ],
+   "hours": 4.5,
+   "study": true
+  },
+  {
+   "date": "2027-04-18",
+   "wd": "日",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "Mock 2 檢討 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2027-04-19",
+   "wd": "一",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "MIX",
+   "module": [],
+   "content": "Mock 2 檢討（續）",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-04-20",
+   "wd": "二",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "MIX",
+   "module": [],
+   "content": "Mock 2 最弱科目 #1",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-04-21",
+   "wd": "三",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "MIX",
+   "module": [],
+   "content": "Mock 2 最弱科目 #2",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-04-22",
+   "wd": "四",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "DER",
+   "module": [],
+   "content": "DER + AI 第二輪",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-04-23",
+   "wd": "五",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "ETH",
+   "module": [],
+   "content": "ETH 第二輪（Standards 逐條 + 案例）",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-04-24",
+   "wd": "六",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "MIX",
+   "module": [],
+   "content": "限時混合 item sets（6 組／約 108 分鐘）",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-04-25",
+   "wd": "日",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "週日溫習 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2027-04-26",
+   "wd": "一",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "QM",
+   "module": [],
+   "content": "QM + ECO 第二輪",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-04-27",
+   "wd": "二",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "CI",
+   "module": [],
+   "content": "CI 第二輪 + FSA 公式",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-04-28",
+   "wd": "三",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "EQ",
+   "module": [],
+   "content": "EQ + FI 公式總溫",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-04-29",
+   "wd": "四",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "ETH",
+   "module": [],
+   "content": "ETH item sets",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-04-30",
+   "wd": "五",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "休息",
+   "kind": "rest",
+   "subject": "",
+   "module": [],
+   "content": "休息日（Mock 前一天，只做 SRS）",
+   "activities": [
+    "cards"
+   ],
+   "hours": 0.33,
+   "study": false
+  },
+  {
+   "date": "2027-05-01",
+   "wd": "六",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "Mock",
+   "kind": "mock",
+   "subject": "MIX",
+   "module": [],
+   "content": "Mock 3（全套）— 勞動節",
+   "activities": [
+    "mock",
+    "review"
+   ],
+   "hours": 4.5,
+   "study": true
+  },
+  {
+   "date": "2027-05-02",
+   "wd": "日",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "Mock 3 檢討 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2027-05-03",
+   "wd": "一",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "MIX",
+   "module": [],
+   "content": "Mock 3 檢討（續）",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-05-04",
+   "wd": "二",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "MIX",
+   "module": [],
+   "content": "Mock 3 最弱科目",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-05-05",
+   "wd": "三",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "MIX",
+   "module": [],
+   "content": "error log 全面重溫",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-05-06",
+   "wd": "四",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "練習",
+   "kind": "practice",
+   "subject": "ETH",
+   "module": [],
+   "content": "ETH 總溫 + formula sheet",
+   "activities": [
+    "quiz",
+    "cards"
+   ],
+   "hours": 2.0,
+   "study": true
+  },
+  {
+   "date": "2027-05-07",
+   "wd": "五",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "休息",
+   "kind": "rest",
+   "subject": "",
+   "module": [],
+   "content": "休息日（只做 SRS）；確認考試預約（改期限期 5/7 ET）",
+   "activities": [
+    "cards"
+   ],
+   "hours": 0.33,
+   "study": false
+  },
+  {
+   "date": "2027-05-08",
+   "wd": "六",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "Mock",
+   "kind": "mock",
+   "subject": "MIX",
+   "module": [],
+   "content": "Mock 4（全套，彩排：用實際考試開始時間）",
+   "activities": [
+    "mock",
+    "review"
+   ],
+   "hours": 4.5,
+   "study": true
+  },
+  {
+   "date": "2027-05-09",
+   "wd": "日",
+   "phase": "P2",
+   "phase_name": "P2 練習／Mock",
+   "category": "週日溫習",
+   "kind": "review",
+   "subject": "REV",
+   "module": [],
+   "content": "Mock 4 檢討 + check-in",
+   "activities": [
+    "review",
+    "quiz",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2027-05-10",
+   "wd": "一",
+   "phase": "P3",
+   "phase_name": "P3 最後溫習",
+   "category": "最後溫習",
+   "kind": "final",
+   "subject": "ETH",
+   "module": [],
+   "content": "最後溫習：ETH Standards 全表",
+   "activities": [
+    "review",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2027-05-11",
+   "wd": "二",
+   "phase": "P3",
+   "phase_name": "P3 最後溫習",
+   "category": "最後溫習",
+   "kind": "final",
+   "subject": "MIX",
+   "module": [],
+   "content": "最後溫習：FSA + EQ 公式與陷阱",
+   "activities": [
+    "review",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2027-05-12",
+   "wd": "三",
+   "phase": "P3",
+   "phase_name": "P3 最後溫習",
+   "category": "最後溫習",
+   "kind": "final",
+   "subject": "MIX",
+   "module": [],
+   "content": "最後溫習：FI + DER",
+   "activities": [
+    "review",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2027-05-13",
+   "wd": "四",
+   "phase": "P3",
+   "phase_name": "P3 最後溫習",
+   "category": "最後溫習",
+   "kind": "final",
+   "subject": "MIX",
+   "module": [],
+   "content": "（選擇性）半套練習或休息 — 佛誕",
+   "activities": [
+    "review",
+    "cards"
+   ],
+   "hours": 1.0,
+   "study": true
+  },
+  {
+   "date": "2027-05-14",
+   "wd": "五",
+   "phase": "P3",
+   "phase_name": "P3 最後溫習",
+   "category": "最後溫習",
+   "kind": "final",
+   "subject": "MIX",
+   "module": [],
+   "content": "最後溫習：PM + AI + CI",
+   "activities": [
+    "review",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2027-05-15",
+   "wd": "六",
+   "phase": "P3",
+   "phase_name": "P3 最後溫習",
+   "category": "最後溫習",
+   "kind": "final",
+   "subject": "MIX",
+   "module": [],
+   "content": "最後溫習：QM + ECO + ETH 快速重溫",
+   "activities": [
+    "review",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2027-05-16",
+   "wd": "日",
+   "phase": "P3",
+   "phase_name": "P3 最後溫習",
+   "category": "最後溫習",
+   "kind": "final",
+   "subject": "",
+   "module": [],
+   "content": "輕量：error log 精華 + 考試物流",
+   "activities": [
+    "review",
+    "cards"
+   ],
+   "hours": 1.5,
+   "study": true
+  },
+  {
+   "date": "2027-05-17",
+   "wd": "一",
+   "phase": "P3",
+   "phase_name": "P3 最後溫習",
+   "category": "休息",
+   "kind": "rest",
+   "subject": "",
+   "module": [],
+   "content": "休息；準備計算機、證件、admission ticket",
+   "activities": [
+    "cards"
+   ],
+   "hours": 0.33,
+   "study": false
+  },
+  {
+   "date": "2027-05-18",
+   "wd": "二",
+   "phase": "EX",
+   "phase_name": "考試",
+   "category": "考試",
+   "kind": "exam",
+   "subject": "",
+   "module": [],
+   "content": "考試（假設最早日期 5/18 星期二；窗口 5/18–5/22）",
+   "activities": [
+    "exam"
+   ],
+   "hours": 0,
+   "study": false,
+   "exam": true
+  },
+  {
+   "date": "2027-05-19",
+   "wd": "三",
+   "phase": "EX",
+   "phase_name": "考試",
+   "category": "考試",
+   "kind": "exam",
+   "subject": "",
+   "module": [],
+   "content": "考試窗口（如預約 5/19–5/22：輕量溫習 + 休息，不學新內容）",
+   "activities": [
+    "exam"
+   ],
+   "hours": 0,
+   "study": false
+  },
+  {
+   "date": "2027-05-20",
+   "wd": "四",
+   "phase": "EX",
+   "phase_name": "考試",
+   "category": "考試",
+   "kind": "exam",
+   "subject": "",
+   "module": [],
+   "content": "考試窗口（如預約 5/19–5/22：輕量溫習 + 休息，不學新內容）",
+   "activities": [
+    "exam"
+   ],
+   "hours": 0,
+   "study": false
+  },
+  {
+   "date": "2027-05-21",
+   "wd": "五",
+   "phase": "EX",
+   "phase_name": "考試",
+   "category": "考試",
+   "kind": "exam",
+   "subject": "",
+   "module": [],
+   "content": "考試窗口（如預約 5/19–5/22：輕量溫習 + 休息，不學新內容）",
+   "activities": [
+    "exam"
+   ],
+   "hours": 0,
+   "study": false
+  },
+  {
+   "date": "2027-05-22",
+   "wd": "六",
+   "phase": "EX",
+   "phase_name": "考試",
+   "category": "考試",
+   "kind": "exam",
+   "subject": "",
+   "module": [],
+   "content": "考試窗口（如預約 5/19–5/22：輕量溫習 + 休息，不學新內容）",
+   "activities": [
+    "exam"
+   ],
+   "hours": 0,
+   "study": false
+  }
+ ]
+}

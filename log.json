@@ -1,0 +1,31 @@
+{
+ "generated": "2026-09-27 01:23",
+ "errors": [],
+ "entries": [
+  {
+   "date": "2026-09-26",
+   "source": "progress.md",
+   "plan_date": [
+    "2026-09-27"
+   ],
+   "day": 1,
+   "subject": "QM",
+   "module": [
+    "LM1",
+    "FND"
+   ],
+   "topics": "Multiple regression 用途與流程; 回歸方程與係數; 五個假設 (LINE+I); residual plots; 補底 p 值、t 值、標準誤",
+   "status": "done",
+   "lesson": "done",
+   "quiz_correct": 7,
+   "quiz_total": 7,
+   "quiz": "7/7",
+   "cards_added": 43,
+   "stress": 2,
+   "weak": "假設檢定 1% 水平; degrees of freedom (df); 非零假設值檢定 (例如 beta=1)",
+   "notes": "提早一日開始 Day 1（LM1）。晚間小測 7/7（第 4 題是猜對的，已重教 p 值、t 值、標準誤，檢查 3/3）。加入 29 張 LM1 卡 + 14 張補底卡；筆記 PDF 已製作。下一課 Day 2（LM2）。",
+   "cards_reviewed": 0,
+   "cards_reviewed_auto": true
+  }
+ ]
+}
