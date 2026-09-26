@@ -1,8 +1,8 @@
-# CFA L2 Quant 記憶卡
+# CFA L2 記憶卡
 
-CFA Level II 量化方法 (Quantitative Methods) 間隔重複記憶卡網頁。
+CFA Level II 全部十個科目（＋補底 Level I 基礎）的間隔重複記憶卡網頁。
 
 線上使用: https://daveploutos-glitch.github.io/cfa-l2-cards/
 
-- 單一自包含 HTML (`index.html`)，由 `srs.py export` 產生。
-- 學習進度儲存在瀏覽器 localStorage，網址固定不變，更新卡片不會遺失進度。
+- `index.html` 由 `srs.py export` 產生（卡片資料、KaTeX 已內嵌）；卡片圖片在 `img/`（webp，已壓縮）。
+- 學習進度儲存在瀏覽器 localStorage（按卡片編號），網址固定不變，更新卡片不會遺失進度。
