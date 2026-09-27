@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27 01:34",
+ "generated": "2026-09-27 15:40",
  "errors": [],
  "entries": [
   {
@@ -26,6 +26,15 @@
    "notes": "提早一日開始 Day 1（LM1）。晚間小測 7/7（第 4 題是猜對的，已重教 p 值、t 值、標準誤，檢查 3/3）。加入 29 張 LM1 卡 + 14 張補底卡；筆記 PDF 已製作。下一課 Day 2（LM2）。",
    "cards_reviewed": 0,
    "cards_reviewed_auto": true
+  },
+  {
+   "date": "2026-09-27",
+   "source": "cards.json",
+   "status": "partial",
+   "cards_added": 7,
+   "cards_reviewed": 5,
+   "cards_reviewed_auto": true,
+   "plan_date": []
   }
  ]
 }
