@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27 22:31",
+ "generated": "2026-09-27 22:33",
  "errors": [],
  "entries": [
   {
@@ -45,6 +45,7 @@
    "quiz_total": 7,
    "quiz": "7/7",
    "cards_added": 24,
+   "stress": 2,
    "weak": "meaning of reject H0 vs fail to reject (retaught 9/27 afternoon), df = n−k−1 and t-table lookup",
    "notes": "early lesson, all quiz correct.",
    "cards_reviewed": 5,
