@@ -8,7 +8,23 @@
   "day": null,
   "latest": true,
   "date": "2026-09-27",
-  "size": 2486074
+  "size": 2925707
+ },
+ {
+  "file": "CFA_L2_Quant_筆記_Day02.pdf",
+  "url": "notes/CFA_L2_Quant_筆記_Day02.pdf",
+  "title": "Quant 筆記（Day 02 版本）",
+  "subject": "QM",
+  "chapter": "Day 2 · LM2",
+  "day": 2,
+  "latest": false,
+  "date": "2026-09-27",
+  "size": 2925707,
+  "studied": "2026-09-27",
+  "module": [
+   "LM2"
+  ],
+  "topics": "LM2 Goodness of fit, adj R², AIC/BIC, F-test, forecasting"
  },
  {
   "file": "CFA_L2_Quant_筆記_Day1.pdf",

@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27 16:12",
+ "generated": "2026-09-27 21:42",
  "errors": [],
  "entries": [
   {
@@ -29,9 +29,10 @@
   },
   {
    "date": "2026-09-27",
-   "source": "cards.json",
+   "source": "auto",
    "status": "partial",
-   "cards_added": 7,
+   "notes": "（日）Day 2｜LM2 課堂完成（提早，原定 9/28）",
+   "cards_added": 31,
    "cards_reviewed": 5,
    "cards_reviewed_auto": true,
    "plan_date": []
