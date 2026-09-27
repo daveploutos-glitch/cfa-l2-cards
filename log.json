@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27 21:42",
+ "generated": "2026-09-27 22:31",
  "errors": [],
  "entries": [
   {
@@ -29,13 +29,26 @@
   },
   {
    "date": "2026-09-27",
-   "source": "auto",
-   "status": "partial",
-   "notes": "（日）Day 2｜LM2 課堂完成（提早，原定 9/28）",
-   "cards_added": 31,
+   "source": "progress.md",
+   "plan_date": [
+    "2026-09-28"
+   ],
+   "day": 2,
+   "subject": "QM",
+   "module": [
+    "LM2"
+   ],
+   "topics": "R², adjusted R², AIC/BIC, overall & joint F-test, prediction",
+   "status": "done",
+   "lesson": "done",
+   "quiz_correct": 7,
+   "quiz_total": 7,
+   "quiz": "7/7",
+   "cards_added": 24,
+   "weak": "meaning of reject H0 vs fail to reject (retaught 9/27 afternoon), df = n−k−1 and t-table lookup",
+   "notes": "early lesson, all quiz correct.",
    "cards_reviewed": 5,
-   "cards_reviewed_auto": true,
-   "plan_date": []
+   "cards_reviewed_auto": true
   }
  ]
 }

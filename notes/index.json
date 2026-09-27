@@ -24,7 +24,7 @@
   "module": [
    "LM2"
   ],
-  "topics": "LM2 Goodness of fit, adj R², AIC/BIC, F-test, forecasting"
+  "topics": "R², adjusted R², AIC/BIC, overall & joint F-test, prediction"
  },
  {
   "file": "CFA_L2_Quant_筆記_Day1.pdf",
