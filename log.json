@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27 23:01",
+ "generated": "2026-09-28 22:20",
  "errors": [],
  "entries": [
   {
@@ -48,6 +48,30 @@
    "stress": 2,
    "weak": "meaning of reject H0 vs fail to reject (retaught 9/27 afternoon), df = n−k−1 and t-table lookup",
    "notes": "early lesson, all quiz correct.",
+   "cards_reviewed": 5,
+   "cards_reviewed_auto": true
+  },
+  {
+   "date": "2026-09-28",
+   "source": "progress.md",
+   "plan_date": [
+    "2026-09-29"
+   ],
+   "day": 3,
+   "subject": "QM",
+   "module": [
+    "LM3"
+   ],
+   "topics": "Model specification principles & misspecification; conditional heteroskedasticity (BP, robust SE); serial correlation (BG, Newey–West; lagged Y + SC); multicollinearity (VIF 5/10); 3-way comparison; Type I/II & unbiased refresher",
+   "status": "done",
+   "lesson": "done",
+   "quiz_correct": 7,
+   "quiz_total": 7,
+   "quiz": "7/7",
+   "cards_added": 30,
+   "stress": 3,
+   "weak": "why SE underestimated under conditional heteroskedasticity (extreme-X high-leverage points); Type I vs Type II (court table, α=P(Type I)); meaning of unbiased; serial correlation vs lagged Y (lagged Y alone OK; lagged Y + SC ⇒ coefficients invalid); fail to reject ≠ proven none; irrelevant variable = parsimony/economic reasoning not pooling; Q3 robust SE & Q5 Newey–West guessed",
+   "notes": "OT day; Q3/Q5 guessed",
    "cards_reviewed": 5,
    "cards_reviewed_auto": true
   }

@@ -1,14 +1,30 @@
 [
  {
   "file": "CFA_L2_Quant_筆記.pdf",
-  "url": "notes/CFA_L2_Quant_筆記.pdf?v=e84a6104",
+  "url": "notes/CFA_L2_Quant_筆記.pdf?v=743f1584",
   "title": "Quant 筆記（最新版）",
   "subject": "QM",
   "chapter": "全部已教內容",
   "day": null,
   "latest": true,
-  "date": "2026-09-27",
-  "size": 2925707
+  "date": "2026-09-28",
+  "size": 3791418
+ },
+ {
+  "file": "CFA_L2_Quant_筆記_Day03.pdf",
+  "url": "notes/CFA_L2_Quant_筆記_Day03.pdf?v=743f1584",
+  "title": "Quant 筆記（Day 03 版本）",
+  "subject": "QM",
+  "chapter": "Day 3 · LM3",
+  "day": 3,
+  "latest": false,
+  "date": "2026-09-28",
+  "size": 3791418,
+  "studied": "2026-09-28",
+  "module": [
+   "LM3"
+  ],
+  "topics": "Model specification principles & misspecification; conditional heteroskedasticity (BP, robust SE); serial correlation (BG, Newey–West; lagged Y + SC); multicollinearity (VIF 5/10); 3-way comparison; Type I/II & unbiased refresher"
  },
  {
   "file": "CFA_L2_Quant_筆記_Day02.pdf",
