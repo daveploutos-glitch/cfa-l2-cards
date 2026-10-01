@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28 22:20",
+ "generated": "2026-10-01 21:45",
  "errors": [],
  "entries": [
   {
@@ -72,6 +72,36 @@
    "stress": 3,
    "weak": "why SE underestimated under conditional heteroskedasticity (extreme-X high-leverage points); Type I vs Type II (court table, α=P(Type I)); meaning of unbiased; serial correlation vs lagged Y (lagged Y alone OK; lagged Y + SC ⇒ coefficients invalid); fail to reject ≠ proven none; irrelevant variable = parsimony/economic reasoning not pooling; Q3 robust SE & Q5 Newey–West guessed",
    "notes": "OT day; Q3/Q5 guessed",
+   "cards_reviewed": 5,
+   "cards_reviewed_auto": true
+  },
+  {
+   "date": "2026-09-30",
+   "source": "cards.json",
+   "status": "partial",
+   "cards_added": 0,
+   "cards_reviewed": 5,
+   "cards_reviewed_auto": true,
+   "plan_date": []
+  },
+  {
+   "date": "2026-10-01",
+   "source": "progress.md",
+   "plan_date": [
+    "2026-10-01"
+   ],
+   "day": 4,
+   "subject": "QM",
+   "module": [
+    "LM4"
+   ],
+   "topics": "Day 4 未完成（待續 logistic）；今日未開課",
+   "status": "rest",
+   "lesson": "none",
+   "quiz": "-",
+   "cards_added": 0,
+   "weak": "Day 4 logistic 未教; Day 4 晚間小測未考",
+   "notes": "Rest / not started. Morning warm-up prepared but no lesson. Resume Day 4 (logistic + wrap-up) next study session; Review LM1–4 stays deferred until Day 4 done.",
    "cards_reviewed": 5,
    "cards_reviewed_auto": true
   }
