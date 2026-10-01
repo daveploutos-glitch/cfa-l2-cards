@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01 21:45",
+ "generated": "2026-10-01 21:53",
  "errors": [],
  "entries": [
   {
@@ -88,20 +88,23 @@
    "date": "2026-10-01",
    "source": "progress.md",
    "plan_date": [
-    "2026-10-01"
+    "2026-09-30"
    ],
    "day": 4,
    "subject": "QM",
    "module": [
     "LM4"
    ],
-   "topics": "Day 4 未完成（待續 logistic）；今日未開課",
-   "status": "rest",
-   "lesson": "none",
-   "quiz": "-",
-   "cards_added": 0,
-   "weak": "Day 4 logistic 未教; Day 4 晚間小測未考",
-   "notes": "Rest / not started. Morning warm-up prepared but no lesson. Resume Day 4 (logistic + wrap-up) next study session; Review LM1–4 stays deferred until Day 4 done.",
+   "topics": "Influence analysis (leverage/outlier/influential; h_ii>3(k+1)/n); dummy variables (n-1, intercept vs slope); logistic regression (logit, MLE, log odds; why not OLS; pseudo-R²)",
+   "status": "done",
+   "lesson": "done",
+   "quiz_correct": 7,
+   "quiz_total": 7,
+   "quiz": "7/7",
+   "cards_added": 28,
+   "stress": 2,
+   "weak": "logistic log-odds interpretation; OLS vs MLE names (light — quiz perfect, mid-lesson unclear)",
+   "notes": "Late completion of plan_date 2026-09-30 Day 4. Quiz 7/7 all correct (1B 2B 3A 4B 5B 6B 7C), stress 2, no guessed. Replaces earlier false rest daylog for 2026-10-01.",
    "cards_reviewed": 5,
    "cards_reviewed_auto": true
   }

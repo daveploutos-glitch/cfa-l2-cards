@@ -1,14 +1,30 @@
 [
  {
   "file": "CFA_L2_Quant_筆記.pdf",
-  "url": "notes/CFA_L2_Quant_筆記.pdf?v=743f1584",
+  "url": "notes/CFA_L2_Quant_筆記.pdf?v=c74e571e",
   "title": "Quant 筆記（最新版）",
   "subject": "QM",
   "chapter": "全部已教內容",
   "day": null,
   "latest": true,
-  "date": "2026-09-29",
-  "size": 3791418
+  "date": "2026-10-01",
+  "size": 4194864
+ },
+ {
+  "file": "CFA_L2_Quant_筆記_Day04.pdf",
+  "url": "notes/CFA_L2_Quant_筆記_Day04.pdf?v=c74e571e",
+  "title": "Quant 筆記（Day 04 版本）",
+  "subject": "QM",
+  "chapter": "Day 4 · LM4",
+  "day": 4,
+  "latest": false,
+  "date": "2026-10-01",
+  "size": 4194864,
+  "studied": "2026-10-01",
+  "module": [
+   "LM4"
+  ],
+  "topics": "Influence analysis (leverage/outlier/influential; h_ii>3(k+1)/n); dummy variables (n-1, intercept vs slope); logistic regression (logit, MLE, log odds; why not OLS; pseudo-R²)"
  },
  {
   "file": "CFA_L2_Quant_筆記_Day03.pdf",
