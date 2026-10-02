@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01 21:53",
+ "generated": "2026-10-02 10:38",
  "errors": [],
  "entries": [
   {
@@ -107,6 +107,16 @@
    "notes": "Late completion of plan_date 2026-09-30 Day 4. Quiz 7/7 all correct (1B 2B 3A 4B 5B 6B 7C), stress 2, no guessed. Replaces earlier false rest daylog for 2026-10-01.",
    "cards_reviewed": 5,
    "cards_reviewed_auto": true
+  },
+  {
+   "date": "2026-10-02",
+   "source": "auto",
+   "status": "partial",
+   "notes": "早上導讀（自動化）｜Day 5 Review LM1–4",
+   "cards_added": 0,
+   "cards_reviewed": 0,
+   "cards_reviewed_auto": true,
+   "plan_date": []
   }
  ]
 }
