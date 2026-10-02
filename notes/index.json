@@ -1,25 +1,25 @@
 [
  {
   "file": "CFA_L2_Quant_筆記.pdf",
-  "url": "notes/CFA_L2_Quant_筆記.pdf?v=5d2eab9f",
+  "url": "notes/CFA_L2_Quant_筆記.pdf?v=a7dcd9d1",
   "title": "Quant 筆記（最新版）",
   "subject": "QM",
   "chapter": "全部已教內容",
   "day": null,
   "latest": true,
   "date": "2026-10-02",
-  "size": 4545763
+  "size": 4545880
  },
  {
   "file": "CFA_L2_Quant_筆記_Day05.pdf",
-  "url": "notes/CFA_L2_Quant_筆記_Day05.pdf?v=5d2eab9f",
+  "url": "notes/CFA_L2_Quant_筆記_Day05.pdf?v=a7dcd9d1",
   "title": "Quant 筆記（Day 05 版本）",
   "subject": "QM",
   "chapter": "Day 5 · LM1、LM2、LM3、LM4",
   "day": 5,
   "latest": false,
   "date": "2026-10-02",
-  "size": 4545763,
+  "size": 4545880,
   "studied": "2026-10-02",
   "module": [
    "LM1",
