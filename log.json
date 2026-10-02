@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02 15:42",
+ "generated": "2026-10-02 18:50",
  "errors": [],
  "entries": [
   {
@@ -110,13 +110,26 @@
   },
   {
    "date": "2026-10-02",
-   "source": "auto",
-   "status": "partial",
-   "notes": "早上導讀（自動化）｜Day 5 Review LM1–4",
-   "cards_added": 0,
-   "cards_reviewed": 0,
-   "cards_reviewed_auto": true,
-   "plan_date": []
+   "source": "progress.md",
+   "plan_date": [
+    "2026-10-01"
+   ],
+   "day": 5,
+   "subject": "QM",
+   "module": [
+    "LM1",
+    "LM2",
+    "LM3",
+    "LM4"
+   ],
+   "topics": "Review LM1–4；heteroskedasticity／serial correlation／multicollinearity；influence analysis；dummy variables；logistic regression；formula sheet part 1；mixed vignettes",
+   "status": "done",
+   "lesson": "done",
+   "cards_reviewed": 5,
+   "stress": 3,
+   "weak": "influential vs leverage（已重教）；df = n−k−1；h_ii > 3(k+1)/n",
+   "notes": "Late completion of plan_date 2026-10-01 Day 5 Review on 2026-10-02. No formal 7-question quiz for review day; warm-up 5 cards graded LM1-016=3, FND-003=3, LM1-015=2, LM1-019=3, LM1-027=2. V1/V2 correct; V3 corrected to influential.",
+   "cards_added": 0
   }
  ]
 }
