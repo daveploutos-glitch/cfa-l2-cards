@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02 18:50",
+ "generated": "2026-10-02 22:32",
  "errors": [],
  "entries": [
   {
@@ -125,11 +125,14 @@
    "topics": "Review LM1–4；heteroskedasticity／serial correlation／multicollinearity；influence analysis；dummy variables；logistic regression；formula sheet part 1；mixed vignettes",
    "status": "done",
    "lesson": "done",
+   "quiz_correct": 7,
+   "quiz_total": 7,
+   "quiz": "7/7",
+   "cards_added": 5,
    "cards_reviewed": 5,
    "stress": 3,
    "weak": "influential vs leverage（已重教）；df = n−k−1；h_ii > 3(k+1)/n",
-   "notes": "Late completion of plan_date 2026-10-01 Day 5 Review on 2026-10-02. No formal 7-question quiz for review day; warm-up 5 cards graded LM1-016=3, FND-003=3, LM1-015=2, LM1-019=3, LM1-027=2. V1/V2 correct; V3 corrected to influential.",
-   "cards_added": 0
+   "notes": "Late completion of plan_date 2026-10-01 Day 5 Review on 2026-10-02. Evening quiz 7/7（1B 2C 3A 4B 5A 6C 7B，全部正確）；confirmed stress: 3。Warm-up 5 cards graded LM1-016=3, FND-003=3, LM1-015=2, LM1-019=3, LM1-027=2. V1/V2 correct; V3 corrected to influential."
   }
  ]
 }

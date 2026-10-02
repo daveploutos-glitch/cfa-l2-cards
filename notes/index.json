@@ -1,14 +1,33 @@
 [
  {
   "file": "CFA_L2_Quant_筆記.pdf",
-  "url": "notes/CFA_L2_Quant_筆記.pdf?v=c74e571e",
+  "url": "notes/CFA_L2_Quant_筆記.pdf?v=5d2eab9f",
   "title": "Quant 筆記（最新版）",
   "subject": "QM",
   "chapter": "全部已教內容",
   "day": null,
   "latest": true,
-  "date": "2026-10-01",
-  "size": 4194864
+  "date": "2026-10-02",
+  "size": 4545763
+ },
+ {
+  "file": "CFA_L2_Quant_筆記_Day05.pdf",
+  "url": "notes/CFA_L2_Quant_筆記_Day05.pdf?v=5d2eab9f",
+  "title": "Quant 筆記（Day 05 版本）",
+  "subject": "QM",
+  "chapter": "Day 5 · LM1、LM2、LM3、LM4",
+  "day": 5,
+  "latest": false,
+  "date": "2026-10-02",
+  "size": 4545763,
+  "studied": "2026-10-02",
+  "module": [
+   "LM1",
+   "LM2",
+   "LM3",
+   "LM4"
+  ],
+  "topics": "Review LM1–4；heteroskedasticity／serial correlation／multicollinearity；influence analysis；dummy variables；logistic regression；formula sheet part 1；mixed vignettes"
  },
  {
   "file": "CFA_L2_Quant_筆記_Day04.pdf",
