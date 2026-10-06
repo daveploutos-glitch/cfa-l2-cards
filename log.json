@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02 22:33",
+ "generated": "2026-10-06 22:19",
  "errors": [],
  "entries": [
   {
@@ -133,6 +133,60 @@
    "stress": 3,
    "weak": "influential vs leverage（已重教）；df = n−k−1；h_ii > 3(k+1)/n",
    "notes": "Late completion of plan_date 2026-10-01 Day 5 Review on 2026-10-02. Evening quiz 7/7（1B 2C 3A 4B 5A 6C 7B，全部正確）；confirmed stress: 3。Warm-up 5 cards graded LM1-016=3, FND-003=3, LM1-015=2, LM1-019=3, LM1-027=2. V1/V2 correct; V3 corrected to influential."
+  },
+  {
+   "date": "2026-10-03",
+   "source": "auto",
+   "status": "partial",
+   "notes": "早上導讀（自動化）｜Day 6 LM5a",
+   "cards_added": 0,
+   "cards_reviewed": 0,
+   "cards_reviewed_auto": true,
+   "plan_date": []
+  },
+  {
+   "date": "2026-10-04",
+   "source": "auto",
+   "status": "partial",
+   "notes": "早上導讀（自動化）｜Day 6 LM5a（續昨未完成）",
+   "cards_added": 0,
+   "cards_reviewed": 0,
+   "cards_reviewed_auto": true,
+   "plan_date": []
+  },
+  {
+   "date": "2026-10-05",
+   "source": "auto",
+   "status": "partial",
+   "notes": "早上導讀（自動化）｜Day 6 LM5a（第三次開課，縮至核心 3 點）",
+   "cards_added": 0,
+   "cards_reviewed": 0,
+   "cards_reviewed_auto": true,
+   "plan_date": []
+  },
+  {
+   "date": "2026-10-06",
+   "source": "progress.md",
+   "plan_date": [
+    "2026-10-02"
+   ],
+   "day": 6,
+   "subject": "QM",
+   "module": [
+    "LM5a"
+   ],
+   "topics": "Linear vs log-linear trend (e^b1−1, forecast e^(b0+b1t)); DW low → positive serial correlation → trend model inadequate; covariance stationarity (constant mean/variance, covariance depends only on lag) & spurious regression; AR(1) one-/two-step chained forecasts; mean-reverting level b0/(1−b1); residual autocorrelation t = r/(1/√T) → add lags; seasonal lags 4/12",
+   "status": "done",
+   "lesson": "done",
+   "quiz_correct": 4,
+   "quiz_total": 7,
+   "quiz": "4/7",
+   "cards_added": 29,
+   "stress": 5,
+   "weak": "mean-reverting level direction & calc (Q6 wrong); DW reading low = positive SC (Q3 guessed); residual autocorr t-test SE = 1/√T (Q7 guessed); two-step chained forecast (Q5 unanswered, no calculator); why t fails under non-stationarity; lag = which period (seasonal lag 4/12)",
+   "notes": "Late completion of plan_date 2026-10-02 Day 6 LM5a. Warm-up skipped (srs kept repeating same 5 cards; fixed with srs.py warmup). Quiz 4/7 (1A 3C 4A 7A correct, 3 & 7 guessed; 2 & 5 unanswered no calculator; 6A wrong). In/out-of-sample, RMSE, coefficient instability deferred to Day 7. Quiz <80% + stress 5 → 10/7 light 15-min reteach only, Day 7 LM5b on 10/8.",
+   "cards_reviewed": 0,
+   "cards_reviewed_auto": true
   }
  ]
 }
