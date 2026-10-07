@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06 22:19",
+ "generated": "2026-10-07 08:40",
  "errors": [],
  "entries": [
   {
@@ -187,6 +187,25 @@
    "notes": "Late completion of plan_date 2026-10-02 Day 6 LM5a. Warm-up skipped (srs kept repeating same 5 cards; fixed with srs.py warmup). Quiz 4/7 (1A 3C 4A 7A correct, 3 & 7 guessed; 2 & 5 unanswered no calculator; 6A wrong). In/out-of-sample, RMSE, coefficient instability deferred to Day 7. Quiz <80% + stress 5 → 10/7 light 15-min reteach only, Day 7 LM5b on 10/8.",
    "cards_reviewed": 0,
    "cards_reviewed_auto": true
+  },
+  {
+   "date": "2026-10-07",
+   "source": "progress.md",
+   "day": 6,
+   "subject": "QM",
+   "module": [
+    "LM5a review"
+   ],
+   "topics": "Light reteach of Day 6 weak points: DW reading; mean-reverting level b0/(1−b1) and direction; two-step chained forecast; residual autocorrelation t-test SE = 1/√T; seasonal lags 4/12",
+   "status": "partial",
+   "lesson": "planned light review (no new module)",
+   "notes": "Morning plan only; quiz 4/7 + stress 5 yesterday → 15-min weak-point reteach, Day 7 LM5b moved to 10/8. Evening run to update.",
+   "cards_added": 0,
+   "cards_reviewed": 0,
+   "cards_reviewed_auto": true,
+   "plan_date": [
+    "2026-10-07"
+   ]
   }
  ]
 }

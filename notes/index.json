@@ -7,7 +7,7 @@
   "chapter": "全部已教內容",
   "day": null,
   "latest": true,
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "size": 5194769
  },
  {
@@ -18,7 +18,7 @@
   "chapter": "Day 6 · LM5a",
   "day": 6,
   "latest": false,
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "size": 5194769,
   "studied": "2026-10-06",
   "module": [
@@ -34,7 +34,7 @@
   "chapter": "Day 5 · LM1、LM2、LM3、LM4",
   "day": 5,
   "latest": false,
-  "date": "2026-10-03",
+  "date": "2026-10-07",
   "size": 4545880,
   "studied": "2026-10-02",
   "module": [
@@ -53,7 +53,7 @@
   "chapter": "Day 4 · LM4",
   "day": 4,
   "latest": false,
-  "date": "2026-10-03",
+  "date": "2026-10-07",
   "size": 4194864,
   "studied": "2026-10-01",
   "module": [
@@ -69,7 +69,7 @@
   "chapter": "Day 3 · LM3",
   "day": 3,
   "latest": false,
-  "date": "2026-10-03",
+  "date": "2026-10-07",
   "size": 3791418,
   "studied": "2026-09-28",
   "module": [
@@ -85,7 +85,7 @@
   "chapter": "Day 2 · LM2",
   "day": 2,
   "latest": false,
-  "date": "2026-10-03",
+  "date": "2026-10-07",
   "size": 2925707,
   "studied": "2026-09-27",
   "module": [
@@ -101,7 +101,7 @@
   "chapter": "Day 1 · LM1、FND",
   "day": 1,
   "latest": false,
-  "date": "2026-10-03",
+  "date": "2026-10-07",
   "size": 2486074,
   "studied": "2026-09-26",
   "module": [
