@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07 08:40",
+ "generated": "2026-10-11 19:34",
  "errors": [],
  "entries": [
   {
@@ -206,6 +206,73 @@
    "plan_date": [
     "2026-10-07"
    ]
+  },
+  {
+   "date": "2026-10-08",
+   "source": "progress.md",
+   "plan_date": [
+    "2026-10-03"
+   ],
+   "day": 7,
+   "subject": "QM",
+   "module": [
+    "LM5b"
+   ],
+   "topics": "Quick reteach of LM5a weak points (DW, mean-reverting level, two-step forecast, SE = 1/√T, seasonal lag); in-sample vs out-of-sample forecasts & RMSE; coefficient instability; random walk (with/without drift) vs covariance stationary; unit root, first differencing, Dickey–Fuller test",
+   "status": "partial",
+   "lesson": "morning part 1 sent (LOS g, h, i, j, k); remaining LM5b (seasonality recap, ARCH, cointegration, model choice) pending",
+   "notes": "Morning plan only; 10/7 light reteach had no completion record, so folded into today's opening. Warm-up 3 cards (LM1-025/026 skipped as repeats). Evening run to update.",
+   "cards_added": 0,
+   "cards_reviewed": 0,
+   "cards_reviewed_auto": true
+  },
+  {
+   "date": "2026-10-09",
+   "source": "auto",
+   "status": "partial",
+   "notes": "（五）日間狀態（供晚間自動化讀取；未打擾用戶）",
+   "cards_added": 0,
+   "cards_reviewed": 0,
+   "cards_reviewed_auto": true,
+   "plan_date": []
+  },
+  {
+   "date": "2026-10-10",
+   "source": "progress.md",
+   "plan_date": [
+    "2026-10-03"
+   ],
+   "day": 7,
+   "subject": "QM",
+   "module": [
+    "LM5b"
+   ],
+   "topics": "Resume Day 7 Part 2: seasonality + seasonal-lag forecast; MA vs AR autocorrelation pattern & ARMA limits; ARCH(1) test and variance forecast; cointegration decision tree (unit roots / Engle–Granger); time-series model choice & forecasting steps",
+   "status": "partial",
+   "lesson": "morning part 2 planned/sent; Part 1 checks from 10/8 still unanswered",
+   "notes": "Progress follows lessons completed. 10/9 no lesson (morning automation failed). Warm-up skipped (same 5 cards as 10/5–10/6). Not Day 8 practice / not LM6a.",
+   "cards_added": 0,
+   "cards_reviewed": 0,
+   "cards_reviewed_auto": true
+  },
+  {
+   "date": "2026-10-11",
+   "source": "progress.md",
+   "plan_date": [
+    "2026-10-03"
+   ],
+   "day": 7,
+   "subject": "QM",
+   "module": [
+    "LM5b"
+   ],
+   "topics": "One-concept continue Day7: random walk (with/without drift) vs mean-reverting AR(1); unit root; first differencing; Dickey-Fuller light teaser only",
+   "status": "partial",
+   "lesson": "morning one-concept planned/sent (RW unit root differencing); prior Part1/Part2 checks still unanswered",
+   "notes": "Progress follows lessons completed. No last-night quiz. Warm-up LM1-005 LM2-011 LM2-013 LM2-017 LM2-016 pending grade. Not Day 8 practice / not LM6a. Remaining after this concept: seasonality ARCH cointegration model choice; optional short g/h if still weak.",
+   "cards_added": 0,
+   "cards_reviewed": 0,
+   "cards_reviewed_auto": true
   }
  ]
 }
