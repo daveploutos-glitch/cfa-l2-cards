@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24 08:42",
+ "generated": "2026-10-25 08:44",
  "errors": [],
  "entries": [
   {
@@ -508,6 +508,25 @@
    "status": "partial",
    "lesson": "morning checkpoint re-teach sent (trend vs AR, laundry-shop example); awaiting C1 answer before next concept",
    "notes": "Progress follows lessons completed. Chat path paused on trend-vs-AR check since ~10/8. No last-night quiz. Warm-up all 5 skipped (LM1-026 LM1-025 LM2-019 LM2-002 LM2-018 as recent repeats). Not Day 8 / not LM6a / not mock. Do not dump RW ahead of this checkpoint.",
+   "cards_added": 0,
+   "cards_reviewed": 0,
+   "cards_reviewed_auto": true
+  },
+  {
+   "date": "2026-10-25",
+   "source": "progress.md",
+   "plan_date": [
+    "2026-10-03"
+   ],
+   "day": 7,
+   "subject": "QM",
+   "module": [
+    "LM5a-restart"
+   ],
+   "topics": "LM5 restart checkpoint only: when day-to-day serial dependence makes trend model inadequate (low DW) → switch to AR (lagged Y); not RW/seasonality/ARCH",
+   "status": "partial",
+   "lesson": "morning checkpoint re-teach sent (trend vs AR, bookstore example); awaiting C1 answer before next concept",
+   "notes": "Progress follows lessons completed. Chat path paused on trend-vs-AR check since ~10/8. No last-night quiz. Warm-up all 5 skipped (LM2-001 LM2-006 LM2-005 LM2-009 LM2-008 as recent repeats). Not Day 8 / not LM6a / not mock. Do not dump RW ahead of this checkpoint.",
    "cards_added": 0,
    "cards_reviewed": 0,
    "cards_reviewed_auto": true
