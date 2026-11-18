@@ -4,30 +4,76 @@
  "entries": [
   {
    "date": "2026-09-26",
-   "source": "cards.json",
-   "status": "partial",
-   "cards_added": 34,
+   "source": "progress.md",
+   "plan_date": [
+    "2026-09-27"
+   ],
+   "day": 1,
+   "subject": "QM",
+   "module": [
+    "LM1",
+    "FND"
+   ],
+   "topics": "Multiple regression 用途與流程; 回歸方程與係數; 五個假設 (LINE+I); residual plots; 補底 p 值、t 值、標準誤",
+   "status": "done",
+   "lesson": "done",
+   "quiz_correct": 7,
+   "quiz_total": 7,
+   "quiz": "7/7",
+   "cards_added": 43,
+   "stress": 2,
+   "weak": "假設檢定 1% 水平; degrees of freedom (df); 非零假設值檢定 (例如 beta=1)",
+   "notes": "提早一日開始 Day 1（LM1）。晚間小測 7/7（第 4 題是猜對的，已重教 p 值、t 值、標準誤，檢查 3/3）。加入 29 張 LM1 卡 + 14 張補底卡；筆記 PDF 已製作。下一課 Day 2（LM2）。",
    "cards_reviewed": 0,
-   "cards_reviewed_auto": true,
-   "plan_date": []
+   "cards_reviewed_auto": true
   },
   {
    "date": "2026-09-27",
-   "source": "cards.json",
-   "status": "partial",
-   "cards_added": 31,
+   "source": "progress.md",
+   "plan_date": [
+    "2026-09-28"
+   ],
+   "day": 2,
+   "subject": "QM",
+   "module": [
+    "LM2"
+   ],
+   "topics": "R², adjusted R², AIC/BIC, overall & joint F-test, prediction",
+   "status": "done",
+   "lesson": "done",
+   "quiz_correct": 7,
+   "quiz_total": 7,
+   "quiz": "7/7",
+   "cards_added": 24,
+   "stress": 2,
+   "weak": "meaning of reject H0 vs fail to reject (retaught 9/27 afternoon), df = n−k−1 and t-table lookup",
+   "notes": "early lesson, all quiz correct.",
    "cards_reviewed": 5,
-   "cards_reviewed_auto": true,
-   "plan_date": []
+   "cards_reviewed_auto": true
   },
   {
    "date": "2026-09-28",
-   "source": "cards.json",
-   "status": "partial",
+   "source": "progress.md",
+   "plan_date": [
+    "2026-09-29"
+   ],
+   "day": 3,
+   "subject": "QM",
+   "module": [
+    "LM3"
+   ],
+   "topics": "Model specification principles & misspecification; conditional heteroskedasticity (BP, robust SE); serial correlation (BG, Newey–West; lagged Y + SC); multicollinearity (VIF 5/10); 3-way comparison; Type I/II & unbiased refresher",
+   "status": "done",
+   "lesson": "done",
+   "quiz_correct": 7,
+   "quiz_total": 7,
+   "quiz": "7/7",
    "cards_added": 30,
+   "stress": 3,
+   "weak": "why SE underestimated under conditional heteroskedasticity (extreme-X high-leverage points); Type I vs Type II (court table, α=P(Type I)); meaning of unbiased; serial correlation vs lagged Y (lagged Y alone OK; lagged Y + SC ⇒ coefficients invalid); fail to reject ≠ proven none; irrelevant variable = parsimony/economic reasoning not pooling; Q3 robust SE & Q5 Newey–West guessed",
+   "notes": "OT day; Q3/Q5 guessed",
    "cards_reviewed": 5,
-   "cards_reviewed_auto": true,
-   "plan_date": []
+   "cards_reviewed_auto": true
   },
   {
    "date": "2026-09-30",
@@ -40,30 +86,193 @@
   },
   {
    "date": "2026-10-01",
-   "source": "cards.json",
-   "status": "partial",
+   "source": "progress.md",
+   "plan_date": [
+    "2026-09-30"
+   ],
+   "day": 4,
+   "subject": "QM",
+   "module": [
+    "LM4"
+   ],
+   "topics": "Influence analysis (leverage/outlier/influential; h_ii>3(k+1)/n); dummy variables (n-1, intercept vs slope); logistic regression (logit, MLE, log odds; why not OLS; pseudo-R²)",
+   "status": "done",
+   "lesson": "done",
+   "quiz_correct": 7,
+   "quiz_total": 7,
+   "quiz": "7/7",
    "cards_added": 28,
+   "stress": 2,
+   "weak": "logistic log-odds interpretation; OLS vs MLE names (light — quiz perfect, mid-lesson unclear)",
+   "notes": "Late completion of plan_date 2026-09-30 Day 4. Quiz 7/7 all correct (1B 2B 3A 4B 5B 6B 7C), stress 2, no guessed. Replaces earlier false rest daylog for 2026-10-01.",
    "cards_reviewed": 5,
+   "cards_reviewed_auto": true
+  },
+  {
+   "date": "2026-10-02",
+   "source": "progress.md",
+   "plan_date": [
+    "2026-10-01"
+   ],
+   "day": 5,
+   "subject": "QM",
+   "module": [
+    "LM1",
+    "LM2",
+    "LM3",
+    "LM4"
+   ],
+   "topics": "Review LM1–4；heteroskedasticity／serial correlation／multicollinearity；influence analysis；dummy variables；logistic regression；formula sheet part 1；mixed vignettes",
+   "status": "done",
+   "lesson": "done",
+   "quiz_correct": 7,
+   "quiz_total": 7,
+   "quiz": "7/7",
+   "cards_added": 5,
+   "cards_reviewed": 5,
+   "stress": 3,
+   "weak": "influential vs leverage（已重教）；df = n−k−1；h_ii > 3(k+1)/n",
+   "notes": "Late completion of plan_date 2026-10-01 Day 5 Review on 2026-10-02. Evening quiz 7/7（1B 2C 3A 4B 5A 6C 7B，全部正確）；confirmed stress: 3。Warm-up 5 cards graded LM1-016=3, FND-003=3, LM1-015=2, LM1-019=3, LM1-027=2. V1/V2 correct; V3 corrected to influential."
+  },
+  {
+   "date": "2026-10-03",
+   "source": "auto",
+   "status": "partial",
+   "notes": "早上導讀（自動化）｜Day 6 LM5a",
+   "cards_added": 0,
+   "cards_reviewed": 0,
    "cards_reviewed_auto": true,
    "plan_date": []
   },
   {
-   "date": "2026-10-02",
-   "source": "cards.json",
+   "date": "2026-10-04",
+   "source": "auto",
    "status": "partial",
-   "cards_added": 5,
-   "cards_reviewed": 5,
+   "notes": "早上導讀（自動化）｜Day 6 LM5a（續昨未完成）",
+   "cards_added": 0,
+   "cards_reviewed": 0,
+   "cards_reviewed_auto": true,
+   "plan_date": []
+  },
+  {
+   "date": "2026-10-05",
+   "source": "auto",
+   "status": "partial",
+   "notes": "早上導讀（自動化）｜Day 6 LM5a（第三次開課，縮至核心 3 點）",
+   "cards_added": 0,
+   "cards_reviewed": 0,
    "cards_reviewed_auto": true,
    "plan_date": []
   },
   {
    "date": "2026-10-06",
-   "source": "cards.json",
-   "status": "partial",
+   "source": "progress.md",
+   "plan_date": [
+    "2026-10-02"
+   ],
+   "day": 6,
+   "subject": "QM",
+   "module": [
+    "LM5a"
+   ],
+   "topics": "Linear vs log-linear trend (e^b1−1, forecast e^(b0+b1t)); DW low → positive serial correlation → trend model inadequate; covariance stationarity (constant mean/variance, covariance depends only on lag) & spurious regression; AR(1) one-/two-step chained forecasts; mean-reverting level b0/(1−b1); residual autocorrelation t = r/(1/√T) → add lags; seasonal lags 4/12",
+   "status": "done",
+   "lesson": "done",
+   "quiz_correct": 4,
+   "quiz_total": 7,
+   "quiz": "4/7",
    "cards_added": 29,
+   "stress": 5,
+   "weak": "mean-reverting level direction & calc (Q6 wrong); DW reading low = positive SC (Q3 guessed); residual autocorr t-test SE = 1/√T (Q7 guessed); two-step chained forecast (Q5 unanswered, no calculator); why t fails under non-stationarity; lag = which period (seasonal lag 4/12)",
+   "notes": "Late completion of plan_date 2026-10-02 Day 6 LM5a. Warm-up skipped (srs kept repeating same 5 cards; fixed with srs.py warmup). Quiz 4/7 (1A 3C 4A 7A correct, 3 & 7 guessed; 2 & 5 unanswered no calculator; 6A wrong). In/out-of-sample, RMSE, coefficient instability deferred to Day 7. Quiz <80% + stress 5 → 10/7 light 15-min reteach only, Day 7 LM5b on 10/8.",
+   "cards_reviewed": 0,
+   "cards_reviewed_auto": true
+  },
+  {
+   "date": "2026-10-07",
+   "source": "progress.md",
+   "day": 6,
+   "subject": "QM",
+   "module": [
+    "LM5a review"
+   ],
+   "topics": "Light reteach of Day 6 weak points: DW reading; mean-reverting level b0/(1−b1) and direction; two-step chained forecast; residual autocorrelation t-test SE = 1/√T; seasonal lags 4/12",
+   "status": "partial",
+   "lesson": "planned light review (no new module)",
+   "notes": "Morning plan only; quiz 4/7 + stress 5 yesterday → 15-min weak-point reteach, Day 7 LM5b moved to 10/8. Evening run to update.",
+   "cards_added": 0,
+   "cards_reviewed": 0,
+   "cards_reviewed_auto": true,
+   "plan_date": [
+    "2026-10-07"
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "source": "progress.md",
+   "plan_date": [
+    "2026-10-03"
+   ],
+   "day": 7,
+   "subject": "QM",
+   "module": [
+    "LM5b"
+   ],
+   "topics": "Quick reteach of LM5a weak points (DW, mean-reverting level, two-step forecast, SE = 1/√T, seasonal lag); in-sample vs out-of-sample forecasts & RMSE; coefficient instability; random walk (with/without drift) vs covariance stationary; unit root, first differencing, Dickey–Fuller test",
+   "status": "partial",
+   "lesson": "morning part 1 sent (LOS g, h, i, j, k); remaining LM5b (seasonality recap, ARCH, cointegration, model choice) pending",
+   "notes": "Morning plan only; 10/7 light reteach had no completion record, so folded into today's opening. Warm-up 3 cards (LM1-025/026 skipped as repeats). Evening run to update.",
+   "cards_added": 0,
+   "cards_reviewed": 0,
+   "cards_reviewed_auto": true
+  },
+  {
+   "date": "2026-10-09",
+   "source": "auto",
+   "status": "partial",
+   "notes": "（五）日間狀態（供晚間自動化讀取；未打擾用戶）",
+   "cards_added": 0,
    "cards_reviewed": 0,
    "cards_reviewed_auto": true,
    "plan_date": []
+  },
+  {
+   "date": "2026-10-10",
+   "source": "progress.md",
+   "plan_date": [
+    "2026-10-03"
+   ],
+   "day": 7,
+   "subject": "QM",
+   "module": [
+    "LM5b"
+   ],
+   "topics": "Resume Day 7 Part 2: seasonality + seasonal-lag forecast; MA vs AR autocorrelation pattern & ARMA limits; ARCH(1) test and variance forecast; cointegration decision tree (unit roots / Engle–Granger); time-series model choice & forecasting steps",
+   "status": "partial",
+   "lesson": "morning part 2 planned/sent; Part 1 checks from 10/8 still unanswered",
+   "notes": "Progress follows lessons completed. 10/9 no lesson (morning automation failed). Warm-up skipped (same 5 cards as 10/5–10/6). Not Day 8 practice / not LM6a.",
+   "cards_added": 0,
+   "cards_reviewed": 0,
+   "cards_reviewed_auto": true
+  },
+  {
+   "date": "2026-10-11",
+   "source": "progress.md",
+   "plan_date": [
+    "2026-10-03"
+   ],
+   "day": 7,
+   "subject": "QM",
+   "module": [
+    "LM5b"
+   ],
+   "topics": "One-concept continue Day7: random walk (with/without drift) vs mean-reverting AR(1); unit root; first differencing; Dickey-Fuller light teaser only",
+   "status": "partial",
+   "lesson": "morning one-concept planned/sent (RW unit root differencing); prior Part1/Part2 checks still unanswered",
+   "notes": "Progress follows lessons completed. No last-night quiz. Warm-up LM1-005 LM2-011 LM2-013 LM2-017 LM2-016 pending grade. Not Day 8 practice / not LM6a. Remaining after this concept: seasonality ARCH cointegration model choice; optional short g/h if still weak.",
+   "cards_added": 0,
+   "cards_reviewed": 0,
+   "cards_reviewed_auto": true
   },
   {
    "date": "2026-10-12",
