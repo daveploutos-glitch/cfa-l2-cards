@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27 08:48",
+ "generated": "2026-11-28 08:46",
  "errors": [],
  "entries": [
   {
@@ -1154,6 +1154,25 @@
    "status": "partial",
    "lesson": "morning checkpoint re-teach sent (trend vs AR, put chai ko stall example); awaiting C1 answer and a/b/c direction choice",
    "notes": "Progress follows lessons completed. No last-night quiz. Warm-up all 5 skipped (LM1-016 LM1-009 FND-013 LM1-015 FND-003 as earlier repeats). Not Day 8 / not LM6a.",
+   "cards_added": 0,
+   "cards_reviewed": 5,
+   "cards_reviewed_auto": true
+  },
+  {
+   "date": "2026-11-28",
+   "source": "progress.md",
+   "plan_date": [
+    "2026-11-28"
+   ],
+   "subject": "QM",
+   "module": [
+    "LM1",
+    "FND"
+   ],
+   "topics": "Continue Catch-up 1 (LM1 multiple regression foundations + p-value/t/SE; 阿庭瑜珈室); awaiting C1-C3",
+   "status": "partial",
+   "lesson": "partial",
+   "notes": "No last-night quiz. Continuing 11/27 early-start review, not restarting LM1+FND. Warm-up asked LM3-022 LM3-023 LM3-025 FND-017 FND-008 FND-009; skipped recent repeats and FND-002 LM3-024 (too close to pending C3). FND-001 still ungraded. Not LM2 / not LM5 C1.",
    "cards_added": 0,
    "cards_reviewed": 0,
    "cards_reviewed_auto": true
