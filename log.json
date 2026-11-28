@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28 08:46",
+ "generated": "2026-11-28 13:29",
  "errors": [],
  "entries": [
   {
@@ -1162,19 +1162,21 @@
    "date": "2026-11-28",
    "source": "progress.md",
    "plan_date": [
-    "2026-11-28"
+    "2026-11-28",
+    "2026-11-29"
    ],
    "subject": "QM",
    "module": [
     "LM1",
-    "FND"
+    "FND",
+    "LM2"
    ],
-   "topics": "Continue Catch-up 1 (LM1 multiple regression foundations + p-value/t/SE; 阿庭瑜珈室); awaiting C1-C3",
+   "topics": "Catch-up 1 (LM1+FND, 阿庭瑜珈室) completed after C1-C3 and 明白; Catch-up 2 (LM2 fit and forecast) taught, LM2 C1-C3 correct, awaiting F-test check questions and 明白",
    "status": "partial",
    "lesson": "partial",
-   "notes": "No last-night quiz. Continuing 11/27 early-start review, not restarting LM1+FND. Warm-up asked LM3-022 LM3-023 LM3-025 FND-017 FND-008 FND-009; skipped recent repeats and FND-002 LM3-024 (too close to pending C3). FND-001 still ungraded. Not LM2 / not LM5 C1.",
+   "notes": "Morning warm-ups asked then skipped ungraded after 直接上堂. FND-001 graded 2. No quiz, no new cards or notes PDF. Not LM3 / not LM5 C1. Evening: if F-test checks still unanswered, no quiz and do not re-ask.",
    "cards_added": 0,
-   "cards_reviewed": 0,
+   "cards_reviewed": 1,
    "cards_reviewed_auto": true
   }
  ]
